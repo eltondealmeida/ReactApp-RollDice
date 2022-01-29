@@ -1,4 +1,6 @@
 # Project Roll Dice
 
-https://vimeo.com/671516378
-<iframe src="https://player.vimeo.com/video/671516378?h=2e088d4b29" width="640" height="361" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+![video](https://vimeo.com/671516378)
+
+![image](https://user-images.githubusercontent.com/73969323/151675140-38679655-423f-4ac3-b6a7-af6c091ae5fe.png)
+
